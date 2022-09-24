@@ -5,7 +5,7 @@ mysql-connector==2.2.9
 mysql-connector-python==8.0.22
 praw==7.1.0
 prawcore==1.5.0
-protobuf==3.14.0
+protobuf==3.18.3
 pydotenv==0.0.7
 pyTelegramBotAPI==3.7.4
 python-dotenv==0.15.0
