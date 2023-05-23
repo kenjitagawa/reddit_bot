@@ -9,7 +9,7 @@ protobuf==3.18.3
 pydotenv==0.0.7
 pyTelegramBotAPI==3.7.4
 python-dotenv==0.15.0
-requests==2.25.1
+requests==2.31.0
 six==1.15.0
 update-checker==0.18.0
 urllib3==1.26.5
